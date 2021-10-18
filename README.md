@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abdus Baksh
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning coding and studying
+- 💞️ I’m studying at the Applied Science University in Bahrain
